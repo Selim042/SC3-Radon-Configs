@@ -99,4 +99,54 @@ return {
     price = 3,
     address = "tr-phant",
   },
+  {
+    predicates={
+      displayName="Lesbian Phantom"
+    },
+    modid = "sc-peripherals:print",
+    name = "Lesbian Phantom",
+    category = "Phant",
+    price = 3,
+    address = "ls-phant",
+  },
+  {
+    predicates={
+      displayName="Bi-Phantom"
+    },
+    modid = "sc-peripherals:print",
+    name = "Bi-Phantom",
+    category = "Phant",
+    price = 3,
+    address = "bi-phant",
+  },
+  {
+    predicates={
+      displayName="NB Phantom"
+    },
+    modid = "sc-peripherals:print",
+    name = "NB Phantom",
+    category = "Phant",
+    price = 3,
+    address = "nb-phant",
+  },
+  {
+    predicates={
+      displayName="Gray Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "Gray Blahaj",
+    category = "Misc",
+    price = 3,
+    address = "gr-blaj",
+  },
+  {
+    predicates={
+      displayName="Blue Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "Blue Blahaj",
+    category = "Misc",
+    price = 3,
+    address = "bl-blaj",
+  },
 }

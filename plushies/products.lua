@@ -111,10 +111,10 @@ return {
   },
   {
     predicates={
-      displayName="Bi-Phantom"
+      displayName="Bi Phantom"
     },
     modid = "sc-peripherals:print",
-    name = "Bi-Phantom",
+    name = "Bi Phantom",
     category = "Phant",
     price = 3,
     address = "bi-phant",

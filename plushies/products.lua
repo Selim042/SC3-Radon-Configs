@@ -149,4 +149,38 @@ return {
     price = 3,
     address = "bl-blaj",
   },
+
+    {
+    predicates={
+      displayName="BeYou Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "BeYou Blahaj",
+    category = "Misc",
+    price = 3,
+    address = "by-blaj",
+  },
+
+  {
+    predicates={
+      displayName="Allay"
+    },
+    modid = "sc-peripherals:print",
+    name = "Allay",
+    category = "Misc",
+    price = 3,
+    address = "Allay",
+  },
+
+  {
+    predicates={
+      displayName="Honey Allay"
+    },
+    modid = "sc-peripherals:print",
+    name = "Honey Allay",
+    category = "Misc",
+    price = 3,
+    address = "Honey-Allay",
+  },
+  
 }

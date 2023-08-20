@@ -147,7 +147,7 @@ return {
     name = "Allay",
     category = "Misc",
     price = 3,
-    address = "Allay",
+    address = "allay",
   },
   {
     predicates={
@@ -157,7 +157,7 @@ return {
     name = "Honey Allay",
     category = "Misc",
     price = 3,
-    address = "Honey-Allay",
+    address = "h-allay",
   },
   {
     predicates={

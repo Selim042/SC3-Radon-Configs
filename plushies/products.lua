@@ -207,6 +207,6 @@ return {
     name = "Grumpy Shark",
     category = "Misc",
     price = 3,
-    address = "grump-shark",
+    address = "gr-shark",
   },
 }

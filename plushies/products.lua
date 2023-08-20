@@ -149,8 +149,7 @@ return {
     price = 3,
     address = "bl-blaj",
   },
-
-    {
+  {
     predicates={
       displayName="BeYou Blahaj"
     },
@@ -160,7 +159,6 @@ return {
     price = 3,
     address = "by-blaj",
   },
-
   {
     predicates={
       displayName="Allay"
@@ -171,7 +169,6 @@ return {
     price = 3,
     address = "Allay",
   },
-
   {
     predicates={
       displayName="Honey Allay"
@@ -182,7 +179,6 @@ return {
     price = 3,
     address = "Honey-Allay",
   },
-  
   {
     predicates={
       displayName="NB Blahaj"
@@ -193,8 +189,7 @@ return {
     price = 3,
     address = "nb-blaj",
   },
-
-    {
+  {
     predicates={
       displayName="Gender Fluid Blahaj"
     },
@@ -204,7 +199,6 @@ return {
     price = 3,
     address = "gf-blaj",
   },
-
   {
     predicates={
       displayName="Aro Phantom"
@@ -213,9 +207,8 @@ return {
     name = "Aro Phantom",
     category = "Phant",
     price = 3,
-    address = "Aro-Phantom",
+    address = "aro-phant",
   },
-
   {
     predicates={
       displayName="MLM Phantom"
@@ -224,7 +217,26 @@ return {
     name = "MLM Phantom",
     category = "Phant",
     price = 3,
-    address = "MLM-Phantom",
+    address = "mlm-phant",
   },
-
+  {
+    predicates={
+      displayName="Grumpy Shark"
+    },
+    modid = "sc-peripherals:print",
+    name = "Grumpy Shark",
+    category = "Misc",
+    price = 3,
+    address = "grump-shark",
+  },
+  {
+    predicates={
+      displayName="Derpman"
+    },
+    modid = "sc-peripherals:print",
+    name = "Derpman",
+    category = "Misc",
+    price = 3,
+    address = "derpman",
+  },
 }

@@ -183,4 +183,48 @@ return {
     address = "Honey-Allay",
   },
   
+  {
+    predicates={
+      displayName="NB Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "NB Blahaj",
+    category = "Misc",
+    price = 3,
+    address = "nb-blaj",
+  },
+
+    {
+    predicates={
+      displayName="Gender Fluid Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "Gender Fluid Blahaj",
+    category = "Misc",
+    price = 3,
+    address = "gf-blaj",
+  },
+
+  {
+    predicates={
+      displayName="Aro Phantom"
+    },
+    modid = "sc-peripherals:print",
+    name = "Aro Phantom",
+    category = "Phant",
+    price = 3,
+    address = "Aro-Phantom",
+  },
+
+  {
+    predicates={
+      displayName="MLM Phantom"
+    },
+    modid = "sc-peripherals:print",
+    name = "MLM Phantom",
+    category = "Phant",
+    price = 3,
+    address = "MLM-Phantom",
+  },
+
 }

@@ -209,14 +209,4 @@ return {
     price = 3,
     address = "grump-shark",
   },
-  {
-    predicates={
-      displayName="Derpman"
-    },
-    modid = "sc-peripherals:print",
-    name = "Derpman",
-    category = "Misc",
-    price = 3,
-    address = "derpman",
-  },
 }

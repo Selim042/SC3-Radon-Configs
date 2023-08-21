@@ -1,3 +1,3 @@
 return {
-  "Gray Blahaj" = "Emily_042",
+  ["Gray Blahaj"] = "Emily_042",
 }

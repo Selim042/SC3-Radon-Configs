@@ -3,7 +3,7 @@ return {
     modid = "sc-peripherals:print",
     name = "Smol Penguin",
     category = "Peng",
-    price = 3,
+    price = 5,
     designer = "Emily_042",
     predicates = {
       displayName = "Smol Penguin",
@@ -12,7 +12,7 @@ return {
   },
   {
     modid = "sc-peripherals:print",
-    price = 3,
+    price = 5,
     name = "Wide Penguin",
     category = "Peng",
     designer = "Emily_042",
@@ -23,7 +23,7 @@ return {
   },
   {
     modid = "sc-peripherals:print",
-    price = 3,
+    price = 5,
     name = "Non-Beenairy",
     address = "nb-bee",
     category = "Misc",
@@ -34,7 +34,7 @@ return {
   },
   {
     modid = "sc-peripherals:print",
-    price = 3,
+    price = 5,
     name = "Bee-Valid",
     category = "Misc",
     designer = "ConsultingThief",
@@ -48,7 +48,7 @@ return {
     name = "Gay Penguin",
     address = "g-peng",
     designer = "Emily_042",
-    price = 3,
+    price = 5,
     predicates = {
       displayName = "Gay Penguin",
     },
@@ -56,7 +56,7 @@ return {
   },
   {
     modid = "sc-peripherals:print",
-    price = 3,
+    price = 5,
     name = "Duck",
     category = "Misc",
     designer = "ConsultingThief",
@@ -73,7 +73,7 @@ return {
     name = "Baby Phantom",
     category = "Phant",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "bb-phant",
   },
   {
@@ -84,7 +84,7 @@ return {
     name = "Trans Phantom",
     category = "Phant",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "tr-phant",
   },
   {
@@ -95,7 +95,7 @@ return {
     name = "Lesbian Phantom",
     category = "Phant",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "ls-phant",
   },
   {
@@ -106,7 +106,7 @@ return {
     name = "Bi Phantom",
     category = "Phant",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "bi-phant",
   },
   {
@@ -117,7 +117,7 @@ return {
     name = "NB Phantom",
     category = "Phant",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "nb-phant",
   },
   {
@@ -128,7 +128,7 @@ return {
     name = "Gray Blahaj",
     category = "Blaj",
     designer = "Emily_042",
-    price = 3,
+    price = 5,
     address = "gr-blaj",
   },
   {
@@ -139,7 +139,7 @@ return {
     name = "Blue Blahaj",
     category = "Blaj",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "bl-blaj",
   },
   {
@@ -150,7 +150,7 @@ return {
     name = "BeYou Blahaj",
     category = "Blaj",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "by-blaj",
   },
   {
@@ -161,7 +161,7 @@ return {
     name = "Allay",
     category = "Misc",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "allay",
   },
   {
@@ -172,7 +172,7 @@ return {
     name = "Honey Allay",
     category = "Misc",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "h-allay",
   },
   {
@@ -183,7 +183,7 @@ return {
     name = "NB Blahaj",
     category = "Blaj",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "nb-blaj",
   },
   {
@@ -194,7 +194,7 @@ return {
     name = "Gender Fluid Blahaj",
     category = "Blaj",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "gf-blaj",
   },
   {
@@ -205,7 +205,7 @@ return {
     name = "Aro Phantom",
     category = "Phant",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "aro-phant",
   },
   {
@@ -216,7 +216,7 @@ return {
     name = "MLM Phantom",
     category = "Phant",
     designer = "Entropy_44",
-    price = 3,
+    price = 5,
     address = "mlm-phant",
   },
   {
@@ -227,7 +227,7 @@ return {
     name = "Grumpy Shark",
     category = "Misc",
     designer = "ConsultingThief",
-    price = 3,
+    price = 5,
     address = "gr-shark",
   },
 }

@@ -138,7 +138,7 @@ return {
     modid = "sc-peripherals:print",
     name = "Blue Blahaj",
     category = "Blaj",
-    designer = "Entropy_44",
+    designer = "Emily_042",
     price = 5,
     address = "bl-blaj",
   },

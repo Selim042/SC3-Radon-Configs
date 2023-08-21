@@ -4,6 +4,7 @@ return {
     name = "Smol Penguin",
     category = "Peng",
     price = 3,
+    designer = "Emily_042",
     predicates = {
       displayName = "Smol Penguin",
     },

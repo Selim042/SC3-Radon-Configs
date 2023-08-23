@@ -230,4 +230,48 @@ return {
     price = 5,
     address = "gr-shark",
   },
+  {
+    predicates={
+      displayName="Dratini"
+    },
+    modid = "sc-peripherals:print",
+    name = "Dratini",
+    category = "Poke",
+    designer = "Entropy_44",
+    price = 5,
+    address = "Dratini",
+  },
+  {
+    predicates={
+      displayName="Wingull"
+    },
+    modid = "sc-peripherals:print",
+    name = "Wingull",
+    category = "Poke",
+    designer = "Entropy_44",
+    price = 5,
+    address = "Wingull",
+  },
+  {
+    predicates={
+      displayName="Chatot"
+    },
+    modid = "sc-peripherals:print",
+    name = "Chatot",
+    category = "Poke",
+    designer = "Entropy_44",
+    price = 5,
+    address = "Chatot",
+  },
+  {
+    predicates={
+      displayName="Swablu"
+    },
+    modid = "sc-peripherals:print",
+    name = "Swablu",
+    category = "Poke",
+    designer = "Entropy_44",
+    price = 5,
+    address = "Swablu",
+  },
 }

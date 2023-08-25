@@ -221,13 +221,57 @@ return {
   },
   {
     predicates={
-      displayName="Grumpy Shark"
+      displayName="Lesbian Blahaj"
     },
     modid = "sc-peripherals:print",
-    name = "Grumpy Shark",
-    category = "Misc",
-    designer = "ConsultingThief",
+    name = "Lesbian Blahaj",
+    category = "Blaj",
+    designer = "Entropy_44",
     price = 5,
-    address = "gr-shark",
+    address = "les-blaj",
+  },
+  {
+    predicates={
+      displayName="Pride Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "Pride Blahaj",
+    category = "Blaj",
+    designer = "Entropy_44",
+    price = 5,
+    address = "prd-blaj",
+  },
+  {
+    predicates={
+      displayName="Progressive Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "Progressive Blahaj",
+    category = "Blaj",
+    designer = "Entropy_44",
+    price = 5,
+    address = "pro-blaj",
+  },
+  {
+    predicates={
+      displayName="MLM Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "MLM Blahaj",
+    category = "Blaj",
+    designer = "Entropy_44",
+    price = 5,
+    address = "mlm-blaj",
+  },
+  {
+    predicates={
+      displayName="AroAce Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "AroAce Blahaj",
+    category = "Blaj",
+    designer = "Entropy_44",
+    price = 5,
+    address = "aa-blaj",
   },
 }

@@ -35,6 +35,39 @@ return {
   {
     modid = "sc-peripherals:print",
     price = 5,
+    name = "Black Cat",
+    address = "nb-bee",
+    category = "Misc",
+    designer = "ConsultingThief",
+    predicates = {
+      displayName = "Black Cat",
+    },
+  },
+  {
+    modid = "sc-peripherals:print",
+    price = 5,
+    name = "White Cat",
+    address = "nb-bee",
+    category = "Misc",
+    designer = "ConsultingThief",
+    predicates = {
+      displayName = "White Cat",
+    },
+  },
+  {
+    modid = "sc-peripherals:print",
+    price = 5,
+    name = "Calico Cat",
+    address = "nb-bee",
+    category = "Misc",
+    designer = "ConsultingThief",
+    predicates = {
+      displayName = "Calico Cat",
+    },
+  },
+  {
+    modid = "sc-peripherals:print",
+    price = 5,
     name = "Bee-Valid",
     category = "Misc",
     designer = "ConsultingThief",

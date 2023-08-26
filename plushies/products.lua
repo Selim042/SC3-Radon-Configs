@@ -36,7 +36,7 @@ return {
     modid = "sc-peripherals:print",
     price = 5,
     name = "Black Cat",
-    address = "nb-bee",
+    address = "bl-cat",
     category = "Misc",
     designer = "ConsultingThief",
     predicates = {
@@ -47,7 +47,7 @@ return {
     modid = "sc-peripherals:print",
     price = 5,
     name = "White Cat",
-    address = "nb-bee",
+    address = "wh-cat",
     category = "Misc",
     designer = "ConsultingThief",
     predicates = {
@@ -58,7 +58,7 @@ return {
     modid = "sc-peripherals:print",
     price = 5,
     name = "Calico Cat",
-    address = "nb-bee",
+    address = "ca-cat",
     category = "Misc",
     designer = "ConsultingThief",
     predicates = {

@@ -64,6 +64,16 @@ return {
   },
   {
     modid = "sc-peripherals:print",
+    price = 3,
+    name = "Munchlax",
+    predicates = {
+      displayName = "Munchlax",
+    },
+    address = "munchlax",
+    designer = "Entropy_44",
+  },
+  {
+    modid = "sc-peripherals:print",
     price = 1000,
     hidden = true,
     name = "Shiny Munchlax",

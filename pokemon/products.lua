@@ -64,7 +64,7 @@ return {
   },
   {
     modid = "sc-peripherals:print",
-    price = 3,
+    price = 5,
     name = "Munchlax",
     predicates = {
       displayName = "Munchlax",

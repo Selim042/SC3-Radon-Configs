@@ -180,7 +180,7 @@ return {
       displayName="BeYou Blahaj"
     },
     modid = "sc-peripherals:print",
-    name = "BeYou Blahaj",
+    name = "BeYou (Trans) Blahaj",
     category = "Blaj",
     designer = "Entropy_44",
     price = 5,

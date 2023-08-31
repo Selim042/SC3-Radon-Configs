@@ -310,7 +310,7 @@ return {
   {
     modid = "minecraft:trident",
     name = "Trident (with Mending)",
-    category = "Misc",
+    category = "*",
     designer = "Emily_042",
     price = 350,
     address = "trident",

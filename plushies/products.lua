@@ -307,6 +307,7 @@ return {
     price = 5,
     address = "aa-blaj",
   },
+  {
     modid = "minecraft:trident",
     name = "Trident (with Mending)",
     category = "Misc",

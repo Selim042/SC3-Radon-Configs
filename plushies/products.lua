@@ -312,7 +312,7 @@ return {
     name = "Trident (with Mending)",
     category = "*",
     designer = "Emily_042",
-    price = 350,
+    price = 200,
     address = "trident",
   },
 }

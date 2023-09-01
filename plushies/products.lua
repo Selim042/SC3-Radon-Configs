@@ -315,4 +315,70 @@ return {
     price = 200,
     address = "trident",
   },
+  {
+    predicates={
+      displayName="AroAce Blahaj"
+    },
+    modid = "sc-peripherals:print",
+    name = "AroAce Blahaj",
+    category = "Blaj",
+    designer = "Entropy_44",
+    price = 5,
+    address = "aa-blaj",
+  },
+  {
+    predicates={
+      displayName="Black Shulker"
+    },
+    modid = "sc-peripherals:print",
+    name = "Black Shulker",
+    category = "Shulker",
+    designer = "Entropy_44",
+    price = 5,
+    address = "black-shulker",
+  },
+  {
+    predicates={
+      displayName="Green Shulker"
+    },
+    modid = "sc-peripherals:print",
+    name = "Green Shulker",
+    category = "Shulker",
+    designer = "Entropy_44",
+    price = 5,
+    address = "green-shulker",
+  },
+  {
+    predicates={
+      displayName="Red Shulker"
+    },
+    modid = "sc-peripherals:print",
+    name = "Red Shulker",
+    category = "Shulker",
+    designer = "Entropy_44",
+    price = 5,
+    address = "red-shulker",
+  },
+  {
+    predicates={
+      displayName="Pink Shulker"
+    },
+    modid = "sc-peripherals:print",
+    name = "Pink Shulker",
+    category = "Shulker",
+    designer = "Entropy_44",
+    price = 5,
+    address = "pink-shulker",
+  },
+  {
+    predicates={
+      displayName="Blue Shulker"
+    },
+    modid = "sc-peripherals:print",
+    name = "Blue Shulker",
+    category = "Shulker",
+    designer = "Entropy_44",
+    price = 5,
+    address = "blue-shulker",
+  },
 }

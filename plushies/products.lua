@@ -315,7 +315,6 @@ return {
     price = 200,
     address = "trident",
   },
-
   {
     predicates={
       displayName="AroAce Blahaj"
@@ -327,7 +326,6 @@ return {
     price = 5,
     address = "aa-blaj",
   },
-
   {
     predicates={
       displayName="Black Shulker"
@@ -339,7 +337,6 @@ return {
     price = 5,
     address = "black-shulker",
   },
-
   {
     predicates={
       displayName="Green Shulker"
@@ -351,7 +348,6 @@ return {
     price = 5,
     address = "green-shulker",
   },
-
   {
     predicates={
       displayName="Red Shulker"
@@ -363,7 +359,6 @@ return {
     price = 5,
     address = "red-shulker",
   },
-
   {
     predicates={
       displayName="Pink Shulker"
@@ -375,7 +370,6 @@ return {
     price = 5,
     address = "pink-shulker",
   },
-
   {
     predicates={
       displayName="Blue Shulker"
@@ -387,5 +381,4 @@ return {
     price = 5,
     address = "blue-shulker",
   },
-
 }

@@ -317,6 +317,17 @@ return {
   },
   {
     predicates={
+      displayName="Starter Box"
+    },
+    modid = "minecraft:shulker_box",
+    name = "Starter Box (full diamond tools and gear, enchanted)",
+    category = "*",
+    designer = "Emily_042",
+    price = 40,
+    address = "start-box",
+  },
+  {
+    predicates={
       displayName="AroAce Blahaj"
     },
     modid = "sc-peripherals:print",

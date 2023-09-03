@@ -68,6 +68,17 @@ return {
   {
     modid = "sc-peripherals:print",
     price = 5,
+    name = "Orange Cat",
+    address = "or-cat",
+    category = "Misc",
+    designer = "Emily_042",
+    predicates = {
+      displayName = "Orange Cat",
+    },
+  },
+  {
+    modid = "sc-peripherals:print",
+    price = 5,
     name = "Bee-Valid",
     category = "Misc",
     designer = "ConsultingThief",

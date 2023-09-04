@@ -350,36 +350,36 @@ return {
   },
   {
     predicates={
-      displayName="Black Shulker"
+      displayName="Gray Shulker"
     },
     modid = "sc-peripherals:print",
-    name = "Black Shulker",
+    name = "Gray Shulker",
     category = "Shulk",
     designer = "Entropy_44",
     price = 5,
-    address = "black-shulker",
+    address = "gray-shulker",
   },
   {
     predicates={
-      displayName="Green Shulker"
+      displayName="Lime Shulker"
     },
     modid = "sc-peripherals:print",
-    name = "Green Shulker",
+    name = "Lime Shulker",
     category = "Shulk",
     designer = "Entropy_44",
     price = 5,
-    address = "green-shulker",
+    address = "lime-shulker",
   },
   {
     predicates={
-      displayName="Red Shulker"
+      displayName="NB Shulker"
     },
     modid = "sc-peripherals:print",
-    name = "Red Shulker",
+    name = "NB Shulker",
     category = "Shulk",
     designer = "Entropy_44",
     price = 5,
-    address = "red-shulker",
+    address = "nb-shulker",
   },
   {
     predicates={

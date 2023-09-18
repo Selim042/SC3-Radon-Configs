@@ -199,25 +199,25 @@ return {
   },
   {
     predicates={
-      displayName="Allay"
+      displayName="Camel"
     },
     modid = "sc-peripherals:print",
-    name = "Allay",
+    name = "Camel",
     category = "Misc",
     designer = "Entropy_44",
     price = 5,
-    address = "allay",
+    address = "camel",
   },
   {
     predicates={
-      displayName="Honey Allay"
+      displayName="Ocelot"
     },
     modid = "sc-peripherals:print",
-    name = "Honey Allay",
+    name = "Ocelot",
     category = "Misc",
     designer = "Entropy_44",
     price = 5,
-    address = "h-allay",
+    address = "ocelot",
   },
   {
     predicates={
@@ -350,25 +350,25 @@ return {
   },
   {
     predicates={
-      displayName="Gray Shulker"
+      displayName="Red Shulker"
     },
     modid = "sc-peripherals:print",
-    name = "Gray Shulker",
+    name = "Red Shulker",
     category = "Shulk",
     designer = "Entropy_44",
     price = 5,
-    address = "gray-shulker",
+    address = "red-shulker",
   },
   {
     predicates={
-      displayName="Lime Shulker"
+      displayName="Cyan Shulker"
     },
     modid = "sc-peripherals:print",
-    name = "Lime Shulker",
+    name = "Cyan Shulker",
     category = "Shulk",
     designer = "Entropy_44",
     price = 5,
-    address = "lime-shulker",
+    address = "cyan-shulker",
   },
   {
     predicates={

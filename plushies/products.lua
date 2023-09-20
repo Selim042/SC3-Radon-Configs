@@ -403,4 +403,195 @@ return {
     price = 5,
     address = "blue-shulker",
   },
+  {
+    predicates={
+      displayName="Blue Shulker"
+    },
+    modid = "sc-peripherals:print",
+    name = "Blue Shulker",
+    category = "Misc",
+    designer = "Entropy_44",
+    price = 5,
+    address = "blue-shulker",
+  },
+  {
+    predicates={
+      displayName="Endy Head"
+    },
+    modid = "sc-peripherals:print",
+    name = "Endy Head",
+    hidden = true,
+    productId = "eh",
+    category = "Misc",
+    designer = "Entropy_44",
+    price = 5,
+    address = "endy-head",
+  },
+  {
+    predicates={
+      displayName="Endy Body"
+    },
+    modid = "sc-peripherals:print",
+    name = "Endy Body",
+    hidden = true,
+    productId = "eb",
+    category = "Misc",
+    designer = "Entropy_44",
+    price = 5,
+    address = "endy-body",
+  },
+  {
+    predicates={
+      displayName="Endy Legs"
+    },
+    modid = "sc-peripherals:print",
+    name = "Endy Legs",
+    hidden = true,
+    productId = "el",
+    category = "Misc",
+    designer = "Entropy_44",
+    price = 5,
+    address = "endy-body",
+  },
+  {
+    name = "Enderman",
+    address = "enderman",
+    designer = "Entropy_44",
+    category = "Misc",
+    price = 10.0,
+    bundle = {
+        {
+            product = "el",
+            quantity = 1
+        },
+        {
+            product = "eh",
+            quantity = 1
+        },
+        {
+            product = "eb",
+            quantity = 1
+        }
+    }
+},
+{
+  predicates={
+    displayName="Blahaj Head"
+  },
+  modid = "sc-peripherals:print",
+  name = "Blahaj Head",
+  hidden = true,
+  productId = "bh",
+  category = "Blaj",
+  designer = "Entropy_44",
+  price = 5,
+  address = "bb-head",
+},
+{
+  predicates={
+    displayName="Blahaj Body"
+  },
+  modid = "sc-peripherals:print",
+  name = "Blahaj Body",
+  hidden = true,
+  productId = "bb",
+  category = "Blaj",
+  designer = "Entropy_44",
+  price = 5,
+  address = "bb-body",
+},
+{
+  predicates={
+    displayName="Blahaj Tail"
+  },
+  modid = "sc-peripherals:print",
+  name = "Blahaj Legs",
+  hidden = true,
+  productId = "bt",
+  category = "Blaj",
+  designer = "Entropy_44",
+  price = 5,
+  address = "bb-tail",
+},
+{
+  name = "Big Blahaj",
+  address = "bigblahaj",
+  designer = "Entropy_44",
+  category = "Blaj",
+  price = 10.0,
+  bundle = {
+      {
+          product = "bb",
+          quantity = 1
+      },
+      {
+          product = "bh",
+          quantity = 1
+      },
+      {
+          product = "bt",
+          quantity = 1
+      }
+  }
+},
+{
+  predicates={
+    displayName="Trans Blahaj Head"
+  },
+  modid = "sc-peripherals:print",
+  name = "Trans Blahaj Head",
+  hidden = true,
+  productId = "tbh",
+  category = "Blaj",
+  designer = "Entropy_44",
+  price = 5,
+  address = "tb-head",
+},
+{
+  predicates={
+    displayName="Trans Blahaj Body"
+  },
+  modid = "sc-peripherals:print",
+  name = "Trans Blahaj Body",
+  hidden = true,
+  productId = "tbb",
+  category = "Blaj",
+  designer = "Entropy_44",
+  price = 5,
+  address = "tb-body",
+},
+{
+  predicates={
+    displayName="Trans Blahaj Tail"
+  },
+  modid = "sc-peripherals:print",
+  name = "Trans Blahaj Tail",
+  hidden = true,
+  productId = "tbt",
+  category = "Blaj",
+  designer = "Entropy_44",
+  price = 5,
+  address = "tb-tail",
+},
+{
+  name = "Trans Blahaj",
+  address = "transblahaj",
+  designer = "Entropy_44",
+  category = "Blaj",
+  price = 10.0,
+  bundle = {
+      {
+          product = "tbb",
+          quantity = 1
+      },
+      {
+          product = "tbh",
+          quantity = 1
+      },
+      {
+          product = "tbt",
+          quantity = 1
+      }
+  }
+},
 }

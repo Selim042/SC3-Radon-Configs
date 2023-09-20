@@ -45,6 +45,7 @@ return {
     modid = "sc-peripherals:print",
     name = "Chatot",
     price = 5,
+    hidden = true,
     predicates = {
       displayName = "Chatot",
     },
@@ -81,6 +82,48 @@ return {
       displayName = "Shiny Munchlax",
     },
     address = "shiny-munchlax",
+    designer = "Entropy_44",
+  },
+  {
+    modid = "sc-peripherals:print",
+    price = 5,
+    name = "Charizard",
+    predicates = {
+      displayName = "Charizard",
+    },
+    address = "charizard",
+    designer = "Entropy_44",
+  },
+  {
+    modid = "sc-peripherals:print",
+    price = 1000,
+    hidden = true,
+    name = "Shiny Charizard",
+    predicates = {
+      displayName = "Shiny Charizard",
+    },
+    address = "shiny-charizard",
+    designer = "Entropy_44",
+  },
+  {
+    modid = "sc-peripherals:print",
+    price = 5,
+    name = "Alolan Raichu",
+    predicates = {
+      displayName = "Alolan Raichu",
+    },
+    address = "alolan-raichu",
+    designer = "Entropy_44",
+  },
+  {
+    modid = "sc-peripherals:print",
+    price = 1000,
+    hidden = true,
+    name = "Shiny Alolan Raichu",
+    predicates = {
+      displayName = "Shiny Alolan Raichu",
+    },
+    address = "shiny-alolan-raichu",
     designer = "Entropy_44",
   },
 }

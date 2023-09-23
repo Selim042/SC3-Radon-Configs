@@ -339,17 +339,6 @@ return {
   },
   {
     predicates={
-      displayName="AroAce Blahaj"
-    },
-    modid = "sc-peripherals:print",
-    name = "AroAce Blahaj",
-    category = "Blaj",
-    designer = "Entropy_44",
-    price = 5,
-    address = "aa-blaj",
-  },
-  {
-    predicates={
       displayName="Red Shulker"
     },
     modid = "sc-peripherals:print",
@@ -416,7 +405,7 @@ return {
   },
   {
     predicates={
-      displayName="Endy Head"
+      displayName="Enderman Head"
     },
     modid = "sc-peripherals:print",
     name = "Endy Head",
@@ -429,29 +418,29 @@ return {
   },
   {
     predicates={
-      displayName="Endy Body"
+      displayName="Enderman Middle"
     },
     modid = "sc-peripherals:print",
-    name = "Endy Body",
+    name = "Enderman Middle",
     hidden = true,
     productId = "eb",
     category = "Misc",
     designer = "Entropy_44",
     price = 5,
-    address = "endy-body",
+    address = "endy-middle",
   },
   {
     predicates={
-      displayName="Endy Legs"
+      displayName="Enderman Legs"
     },
     modid = "sc-peripherals:print",
-    name = "Endy Legs",
+    name = "Enderman Legs",
     hidden = true,
     productId = "el",
     category = "Misc",
     designer = "Entropy_44",
     price = 5,
-    address = "endy-body",
+    address = "endy-legs",
   },
   {
     name = "Enderman",

@@ -319,25 +319,6 @@ return {
     address = "aa-blaj",
   },
   {
-    modid = "minecraft:trident",
-    name = "Trident (with Mending)",
-    category = "*",
-    designer = "Emily_042",
-    price = 150,
-    address = "trident",
-  },
-  {
-    predicates={
-      displayName="Starter Box"
-    },
-    modid = "minecraft:shulker_box",
-    name = "Starter Box (full diamond tools and gear, enchanted)",
-    category = "*",
-    designer = "Emily_042",
-    price = 40,
-    address = "start-box",
-  },
-  {
     predicates={
       displayName="Red Shulker"
     },

@@ -1,6 +1,17 @@
 return {
   {
     modid = "sc-peripherals:print",
+    name = "Trans Penguin",
+    category = "Peng",
+    price = 5,
+    designer = "Emily_042",
+    predicates = {
+      displayName = "Trans Penguin",
+    },
+    address = "tr-peng",
+  },
+  {
+    modid = "sc-peripherals:print",
     name = "Smol Penguin",
     category = "Peng",
     price = 5,

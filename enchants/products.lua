@@ -59,4 +59,34 @@ return {
       },
     },
   },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Infinity",
+    address = "infinity",
+    category = "Weapons",
+    id = 1,
+    quantity = 4,
+    predicates = {
+      enchantments = {
+        {displayName = 'Infinity'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Punch II",
+    address = "punch",
+    category = "Weapons",
+    id = 1,
+    quantity = 4,
+    predicates = {
+      enchantments = {
+        {displayName = 'Punch II'},
+      },
+    },
+  },
 }

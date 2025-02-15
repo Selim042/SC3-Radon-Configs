@@ -20,12 +20,42 @@ return {
     __opaque = true,
     name = "Looting III",
     address = "looting",
-    category = "All",
+    category = "Weapons",
     id = 1,
     quantity = 4,
     predicates = {
       enchantments = {
         {displayName = 'Looting III'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Silk Touch",
+    address = "silk",
+    category = "Tools",
+    id = 1,
+    quantity = 4,
+    predicates = {
+      enchantments = {
+        {displayName = 'Silk Touch'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Multishot",
+    address = "multi",
+    category = "Weapons",
+    id = 1,
+    quantity = 4,
+    predicates = {
+      enchantments = {
+        {displayName = 'Multishot'},
       },
     },
   },

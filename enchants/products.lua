@@ -90,4 +90,30 @@ return {
       },
     },
   },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Power V",
+    address = "power",
+    category = "Weapons",
+    predicates = {
+      enchantments = {
+        {displayName = 'Power V'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Depth Strider III",
+    address = "depth",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Depth Strider III'},
+      },
+    },
+  },
 }

@@ -4,7 +4,7 @@ return {
     price = 50,
     __opaque = true,
     name = "Mending",
-    address = "mending",
+    address = "mend",
     category = "All",
     predicates = {
       enchantments = {
@@ -17,7 +17,7 @@ return {
     price = 50,
     __opaque = true,
     name = "Looting III",
-    address = "looting",
+    address = "loot",
     category = "Weapons",
     predicates = {
       enchantments = {
@@ -56,7 +56,7 @@ return {
     price = 50,
     __opaque = true,
     name = "Infinity",
-    address = "infinity",
+    address = "inf",
     category = "Weapons",
     predicates = {
       enchantments = {
@@ -74,6 +74,19 @@ return {
     predicates = {
       enchantments = {
         {displayName = 'Punch II'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Fortune III",
+    address = "fort",
+    category = "Tools",
+    predicates = {
+      enchantments = {
+        {displayName = 'Fortune III'},
       },
     },
   },

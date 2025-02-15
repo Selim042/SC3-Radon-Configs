@@ -6,8 +6,6 @@ return {
     name = "Mending",
     address = "mending",
     category = "All",
-    id = 1,
-    quantity = 4,
     predicates = {
       enchantments = {
         {displayName = 'Mending'},
@@ -21,8 +19,6 @@ return {
     name = "Looting III",
     address = "looting",
     category = "Weapons",
-    id = 1,
-    quantity = 4,
     predicates = {
       enchantments = {
         {displayName = 'Looting III'},
@@ -36,8 +32,6 @@ return {
     name = "Silk Touch",
     address = "silk",
     category = "Tools",
-    id = 1,
-    quantity = 4,
     predicates = {
       enchantments = {
         {displayName = 'Silk Touch'},
@@ -51,8 +45,6 @@ return {
     name = "Multishot",
     address = "multi",
     category = "Weapons",
-    id = 1,
-    quantity = 4,
     predicates = {
       enchantments = {
         {displayName = 'Multishot'},
@@ -66,8 +58,6 @@ return {
     name = "Infinity",
     address = "infinity",
     category = "Weapons",
-    id = 1,
-    quantity = 4,
     predicates = {
       enchantments = {
         {displayName = 'Infinity'},
@@ -81,8 +71,6 @@ return {
     name = "Punch II",
     address = "punch",
     category = "Weapons",
-    id = 1,
-    quantity = 4,
     predicates = {
       enchantments = {
         {displayName = 'Punch II'},

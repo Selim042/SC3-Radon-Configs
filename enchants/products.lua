@@ -133,12 +133,12 @@ return {
     modid = "minecraft:enchanted_book",
     price = 50,
     __opaque = true,
-    name = "Effeciency V",
+    name = "Efficiency V",
     address = "unb",
     category = "Tools",
     predicates = {
       enchantments = {
-        {displayName = 'Effeciency V'},
+        {displayName = 'Efficiency V'},
       },
     },
   },

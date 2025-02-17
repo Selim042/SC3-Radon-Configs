@@ -142,4 +142,30 @@ return {
       },
     },
   },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Flame",
+    address = "flame",
+    category = "Weapons",
+    predicates = {
+      enchantments = {
+        {displayName = 'Flame'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Aqua Affinity",
+    address = "aqua",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Aqua Affinity'},
+      },
+    },
+  },
 }

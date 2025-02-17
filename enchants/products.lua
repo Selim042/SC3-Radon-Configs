@@ -168,4 +168,17 @@ return {
       },
     },
   },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Protection IV",
+    address = "prot",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Protection IV'},
+      },
+    },
+  },
 }

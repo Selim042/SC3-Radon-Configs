@@ -120,7 +120,7 @@ return {
     modid = "minecraft:enchanted_book",
     price = 50,
     __opaque = true,
-    name = "Ubreaking III",
+    name = "Unbreaking III",
     address = "unb",
     category = "All",
     predicates = {

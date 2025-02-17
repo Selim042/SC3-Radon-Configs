@@ -129,4 +129,17 @@ return {
       },
     },
   },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Effeciency V",
+    address = "unb",
+    category = "All",
+    predicates = {
+      enchantments = {
+        {displayName = 'Effeciency V'},
+      },
+    },
+  },
 }

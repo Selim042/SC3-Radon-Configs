@@ -134,7 +134,7 @@ return {
     price = 50,
     __opaque = true,
     name = "Efficiency V",
-    address = "unb",
+    address = "eff",
     category = "Tools",
     predicates = {
       enchantments = {

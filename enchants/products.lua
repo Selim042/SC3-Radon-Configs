@@ -18,7 +18,7 @@ return {
     __opaque = true,
     name = "Looting III",
     address = "loot",
-    category = "Weapons",
+    category = "Weapon",
     predicates = {
       enchantments = {
         {displayName = 'Looting III'},
@@ -31,7 +31,7 @@ return {
     __opaque = true,
     name = "Silk Touch",
     address = "silk",
-    category = "Tools",
+    category = "Tool",
     predicates = {
       enchantments = {
         {displayName = 'Silk Touch'},
@@ -44,7 +44,7 @@ return {
     __opaque = true,
     name = "Multishot",
     address = "multi",
-    category = "Weapons",
+    category = "Weapon",
     predicates = {
       enchantments = {
         {displayName = 'Multishot'},
@@ -57,7 +57,7 @@ return {
     __opaque = true,
     name = "Infinity",
     address = "inf",
-    category = "Weapons",
+    category = "Weapon",
     predicates = {
       enchantments = {
         {displayName = 'Infinity'},
@@ -70,7 +70,7 @@ return {
     __opaque = true,
     name = "Punch II",
     address = "punch",
-    category = "Weapons",
+    category = "Weapon",
     predicates = {
       enchantments = {
         {displayName = 'Punch II'},
@@ -83,7 +83,7 @@ return {
     __opaque = true,
     name = "Fortune III",
     address = "fort",
-    category = "Tools",
+    category = "Tool",
     predicates = {
       enchantments = {
         {displayName = 'Fortune III'},
@@ -96,7 +96,7 @@ return {
     __opaque = true,
     name = "Power V",
     address = "power",
-    category = "Weapons",
+    category = "Weapon",
     predicates = {
       enchantments = {
         {displayName = 'Power V'},
@@ -135,7 +135,7 @@ return {
     __opaque = true,
     name = "Efficiency V",
     address = "eff",
-    category = "Tools",
+    category = "Tool",
     predicates = {
       enchantments = {
         {displayName = 'Efficiency V'},
@@ -148,7 +148,7 @@ return {
     __opaque = true,
     name = "Flame",
     address = "flame",
-    category = "Weapons",
+    category = "Weapon",
     predicates = {
       enchantments = {
         {displayName = 'Flame'},
@@ -178,6 +178,19 @@ return {
     predicates = {
       enchantments = {
         {displayName = 'Protection IV'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Sweeping Edge III",
+    address = "edge",
+    category = "Weapon",
+    predicates = {
+      enchantments = {
+        {displayName = 'Sweeping Edge III'},
       },
     },
   },

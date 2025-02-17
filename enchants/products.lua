@@ -116,4 +116,17 @@ return {
       },
     },
   },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Ubreaking III",
+    address = "unb",
+    category = "All",
+    predicates = {
+      enchantments = {
+        {displayName = 'Unbreaking III'},
+      },
+    },
+  },
 }

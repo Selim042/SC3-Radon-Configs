@@ -135,7 +135,7 @@ return {
     __opaque = true,
     name = "Effeciency V",
     address = "unb",
-    category = "All",
+    category = "Tools",
     predicates = {
       enchantments = {
         {displayName = 'Effeciency V'},

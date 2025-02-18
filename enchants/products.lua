@@ -194,4 +194,17 @@ return {
       },
     },
   },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Feather Falling IV",
+    address = "edge",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Feather Falling IV'},
+      },
+    },
+  },
 }

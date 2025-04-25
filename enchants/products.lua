@@ -209,10 +209,10 @@ return {
   },
   {
     modid = "sc-goodies:shulker_box_iron",
-    price = 250,
+    price = 300,
     __opaque = true,
     name = "Iron Shulker of Iron Ingots",
-    address = "edge",
+    address = "iron",
     category = "*",
   },
 }

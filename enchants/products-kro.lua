@@ -1,7 +1,7 @@
 return {
   {
     modid = "minecraft:enchanted_book",
-    price = 100,
+    price = 4,
     __opaque = true,
     name = "Mending",
     address = "mend",
@@ -14,7 +14,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 75,
+    price = 3,
     __opaque = true,
     name = "Looting III",
     address = "loot",
@@ -27,7 +27,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 75,
+    price = 3,
     __opaque = true,
     name = "Silk Touch",
     address = "silk",
@@ -40,7 +40,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 50,
+    price = 2,
     __opaque = true,
     name = "Multishot",
     address = "multi",
@@ -53,7 +53,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 75,
+    price = 3,
     __opaque = true,
     name = "Infinity",
     address = "inf",
@@ -66,7 +66,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 50,
+    price = 2,
     __opaque = true,
     name = "Punch II",
     address = "punch",
@@ -79,7 +79,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 75,
+    price = 3,
     __opaque = true,
     name = "Fortune III",
     address = "fort",
@@ -92,7 +92,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 75,
+    price = 3,
     __opaque = true,
     name = "Power V",
     address = "power",
@@ -105,7 +105,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 50,
+    price = 2,
     __opaque = true,
     name = "Depth Strider III",
     address = "depth",
@@ -118,7 +118,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 100,
+    price = 4,
     __opaque = true,
     name = "Unbreaking III",
     address = "unb",
@@ -131,7 +131,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 75,
+    price = 3,
     __opaque = true,
     name = "Efficiency V",
     address = "eff",
@@ -144,7 +144,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 50,
+    price = 2,
     __opaque = true,
     name = "Flame",
     address = "flame",
@@ -157,7 +157,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 50,
+    price = 2,
     __opaque = true,
     name = "Aqua Affinity",
     address = "aqua",
@@ -170,7 +170,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 75,
+    price = 3,
     __opaque = true,
     name = "Protection IV",
     address = "prot",
@@ -183,7 +183,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 50,
+    price = 2,
     __opaque = true,
     name = "Sweeping Edge III",
     address = "edge",
@@ -196,7 +196,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 50,
+    price = 2,
     __opaque = true,
     name = "Feather Falling IV",
     address = "edge",
@@ -209,7 +209,7 @@ return {
   },
   {
     modid = "sc-goodies:shulker_box_iron",
-    price = 300,
+    price = 12,
     __opaque = true,
     name = "Iron Shulker of Iron Ingots",
     address = "iron",

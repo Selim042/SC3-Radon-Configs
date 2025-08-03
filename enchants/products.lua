@@ -221,6 +221,19 @@ return {
     },
   },
   {
+    modid = "minecraft:enchanted_book",
+    price = 150,
+    __opaque = true,
+    name = "Backstabbing III",
+    address = "back",
+    category = "Weapon",
+    predicates = {
+      enchantments = {
+        {displayName = 'Backstabbing III'},
+      },
+    },
+  },
+  {
     modid = "minecraft:shulker_box",
     price = 500,
     __opaque = true,

@@ -216,7 +216,7 @@ return {
     category = "Armor",
     predicates = {
       enchantments = {
-        {displayName = 'Frost Walker IV'},
+        {displayName = 'Frost Walker II'},
       },
     },
   },

@@ -228,6 +228,7 @@ return {
     address = "kit",
     category = "*",
     predicates = {displayName = "Tool & Armor Starter Kit"},
+  },
   {
     modid = "sc-goodies:shulker_box_iron",
     price = 300,

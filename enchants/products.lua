@@ -206,7 +206,21 @@ return {
         {displayName = 'Feather Falling IV'},
       },
     },
+  },},
+  {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Frost Walker II",
+    address = "frost",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Frost Walker II'},
+      },
+    },
   },
+
   {
     modid = "sc-goodies:shulker_box_iron",
     price = 300,

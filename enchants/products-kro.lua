@@ -234,6 +234,19 @@ return {
     },
   },
   {
+    modid = "minecraft:enchanted_book",
+    price = 2,
+    __opaque = true,
+    name = "Knockback II",
+    address = "knock",
+    category = "Weapon",
+    predicates = {
+      enchantments = {
+        {displayName = 'Knockback II'},
+      },
+    },
+  },
+  {
     modid = "minecraft:shulker_box",
     price = 100,
     __opaque = true,

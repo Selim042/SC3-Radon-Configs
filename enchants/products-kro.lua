@@ -208,6 +208,19 @@ return {
     },
   },
   {
+    modid = "minecraft:enchanted_book",
+    price = 2,
+    __opaque = true,
+    name = "Frost Walker II",
+    address = "frost",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Frost Walker IV'},
+      },
+    },
+  },
+  {
     modid = "sc-goodies:shulker_box_iron",
     price = 12,
     __opaque = true,

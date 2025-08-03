@@ -222,7 +222,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 150,
+    price = 75,
     __opaque = true,
     name = "Backstabbing III",
     address = "back",

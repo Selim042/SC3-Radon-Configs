@@ -220,7 +220,14 @@ return {
       },
     },
   },
-
+  {
+    modid = "minecraft:shulker_box",
+    price = 100,
+    __opaque = true,
+    name = "Tool & Armor Starter Kit",
+    address = "kit",
+    category = "*",
+    predicates = {displayName = "Tool & Armor Starter Kit"},
   {
     modid = "sc-goodies:shulker_box_iron",
     price = 300,

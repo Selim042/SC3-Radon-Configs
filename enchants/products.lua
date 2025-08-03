@@ -206,7 +206,7 @@ return {
         {displayName = 'Feather Falling IV'},
       },
     },
-  },},
+  },
   {
     modid = "minecraft:enchanted_book",
     price = 50,

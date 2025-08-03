@@ -231,10 +231,11 @@ return {
   },
   {
     modid = "sc-goodies:shulker_box_iron",
-    price = 300,
+    price = 200,
     __opaque = true,
     name = "Iron Shulker of Iron Ingots",
     address = "iron",
     category = "*",
+    predicates = {displayName = "Iron Shulker of Iron Ingots"},
   },
 }

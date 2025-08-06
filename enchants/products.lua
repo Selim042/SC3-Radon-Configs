@@ -247,6 +247,45 @@ return {
     },
   },
   {
+    modid = "minecraft:enchanted_book",
+    price = 75,
+    __opaque = true,
+    name = "Blast Protection IV",
+    address = "bprot",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Blast Protection IV'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 75,
+    __opaque = true,
+    name = "Fire Protection IV",
+    address = "fprot",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Fire Protection IV'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 75,
+    __opaque = true,
+    name = "Projectile Protection IV",
+    address = "pprot",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Projectile Protection IV'},
+      },
+    },
+  },
+  {
     modid = "minecraft:shulker_box",
     price = 500,
     __opaque = true,

@@ -199,7 +199,7 @@ return {
     price = 2,
     __opaque = true,
     name = "Feather Falling IV",
-    address = "edge",
+    address = "fall",
     category = "Armor",
     predicates = {
       enchantments = {

@@ -287,7 +287,7 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 3,
+    price = 2,
     __opaque = true,
     name = "Fire Aspect II",
     address = "firea",

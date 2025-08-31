@@ -274,14 +274,27 @@ return {
   },
   {
     modid = "minecraft:enchanted_book",
-    price = 3,
+    price = 2,
     __opaque = true,
     name = "Projectile Protection IV",
     address = "pprot",
-    category = "Armor",
+    category = "Weapons",
     predicates = {
       enchantments = {
         {displayName = 'Projectile Protection IV'},
+      },
+    },
+  },
+  {
+    modid = "minecraft:enchanted_book",
+    price = 3,
+    __opaque = true,
+    name = "Fire Aspect II",
+    address = "firea",
+    category = "Armor",
+    predicates = {
+      enchantments = {
+        {displayName = 'Fire Aspect II'},
       },
     },
   },

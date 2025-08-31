@@ -300,7 +300,7 @@ return {
   },
   {
     modid = "minecraft:shulker_box",
-    price = 100,
+    price = 50,
     __opaque = true,
     name = "Tool & Armor Starter Kit",
     address = "kit",

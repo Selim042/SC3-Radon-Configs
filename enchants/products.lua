@@ -286,6 +286,19 @@ return {
     },
   },
   {
+    modid = "minecraft:enchanted_book",
+    price = 50,
+    __opaque = true,
+    name = "Fire Aspect II",
+    address = "firea",
+    category = "Weapons",
+    predicates = {
+      enchantments = {
+        {displayName = 'Fire Aspect II'},
+      },
+    },
+  },
+  {
     modid = "minecraft:shulker_box",
     price = 500,
     __opaque = true,

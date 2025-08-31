@@ -291,7 +291,7 @@ return {
     __opaque = true,
     name = "Fire Aspect II",
     address = "firea",
-    category = "Weapons",
+    category = "Weapon",
     predicates = {
       enchantments = {
         {displayName = 'Fire Aspect II'},
